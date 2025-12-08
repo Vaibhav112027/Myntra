@@ -1,0 +1,61 @@
+body{
+	font-family: serif !important;
+    }
+.top-menu-link{
+     color: #000;
+     font-weight: 600;
+     font-size: 35px;
+     text-transform: uppercase;
+     
+    }
+.top-menu-link:hover{
+	color: #000;
+}  
+nav.navbar.navbar-expand-md.bg-theme-color{
+	background: #110103 !important;
+}  
+button.contact-btn{
+	width: 200px;
+	height: 50px;
+	background-color: #fff;
+	border: none;
+	font-size: 20px;
+	text-transform: capitalize;
+	margin-left: 550px;
+}
+button.contact-btn:hover{
+
+}
+
+.signin{
+          	border: 0px 0px 0px 0px solid black;
+			box-sizing: content-box;
+          	text-decoration: none;
+          	text-transform: capitalize;
+            background: white;
+            border-radius: 5px;
+            padding: 6px 18px;
+            margin-left: 10px;
+            color: black;
+          }
+          .signin:hover{
+          	background:  #0D6EFD;
+          	border: 0px;
+          	color: black;
+          }
+.offer{
+      float: left;
+	  height: 200px;
+	  width: 100%;
+	  margin-top: 5px;
+      margin-right: -10px;
+	  margin-bottom: 0px;
+}  
+.button{
+	border: 0px 0px 0px 0px  #fff;
+	background-color: #fff;
+}
+  
+
+	 
+     
